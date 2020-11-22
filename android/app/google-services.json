@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226285260722",
+    "firebase_url": "https://kennethui-5f1e4.firebaseio.com",
+    "project_id": "kennethui-5f1e4",
+    "storage_bucket": "kennethui-5f1e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226285260722:android:967800c0578a8151f71eab",
+        "android_client_info": {
+          "package_name": "com.example.kenneth_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226285260722-g82qkc5ja76phl1l6huofurrg1b2jogl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA42nlj-FvcIvujGsaZdO-UqVmeKlcjnMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226285260722-g82qkc5ja76phl1l6huofurrg1b2jogl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
